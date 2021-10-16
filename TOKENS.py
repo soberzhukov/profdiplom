@@ -1,0 +1,2 @@
+TOKEN_GROUP = str
+TOKEN_USER = strg
